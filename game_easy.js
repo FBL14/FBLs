@@ -42,7 +42,12 @@ const clickCard = function(){
                 const endTime = new Date().getTime();
                 const gameTime = (endTime - startTime)/1000;
                 alert(`WYGRANA! CZAS JAKI POTRZEBOWAŁEŚ TO: ${gameTime} sec`)
-                location.reload();
+                if(confirm(`CZY CHCESZ GRAĆ OD NOWA?`)){
+                    location.reload();
+                }
+                else{
+                    location.href='gamemainpage.html';
+                };
             }
         }
         else{
