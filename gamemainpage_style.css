@@ -1,0 +1,99 @@
+body{
+    background: linear-gradient(90deg, rgba(233, 30, 99, 1) 0%, rgba(63, 81, 181, 1) 100%);
+}
+
+.main{
+    margin-top: 10vh;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0px 20px;
+    width: 50vh;
+    border: 5px;
+    border-color: black;
+    border-style: solid;
+    
+}
+.nazwa{
+    font-family: 'Righteous', cursive;
+    font-size: 5vh;
+    margin-top: 10px;
+}
+
+.separator {
+    width: 80%;
+    background-color: #cfd8dc;
+    height: 3px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.gamemenu{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+}
+
+.button{
+    width: 30%;
+    height: 30%;
+    font-family: 'Baloo Tamma 2', cursive;
+    margin-left: 2.5%;
+    text-align: center;
+    font-size: 3vh;
+}
+
+.gamemenuinfo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 90%;;
+}
+
+.box{
+    width: 30%;
+    height: 30%;
+    margin-left: 2.5%;
+    text-align: center;
+    font-size: 2vh;
+}
+
+p{
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    font-family: 'Baloo Tamma 2', cursive;
+    
+}
+.stopka{
+    color:lightgray;
+}
+
+a:link{
+    color:black;
+    text-decoration: none;
+}
+
+a:visited{
+    color:black;
+    text-decoration: none;
+}
+
+a:hover{
+    color:black;
+    text-decoration: none;
+}
+
+a:active{
+    color:black;
+    text-decoration: none;
+}
+.mainpage{
+    font-family: 'Baloo Tamma 2', cursive;
+}
