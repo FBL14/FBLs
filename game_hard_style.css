@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    flex-wrap: wrap;
+    background: linear-gradient(90deg, rgba(63, 81, 181, 1) 0%, rgba(233, 30, 99, 1) 100%);
+}
+div{
+    flex-basis: 10%;
+    flex-grow: 1;
+    height: 20vh;
+    background-color: black;
+    border:4px solid white;
+}
+
+@media (orientation: portrait){
+    div{
+        flex-basis: 20%;
+        height: 10vh;
+    }
+}
+
+
+.q8C12CB{
+    background-color: #8C12CB;
+}
+
+.AA521A{
+    background-color: #AA521A;
+}
+
+.BDECB6{
+    background-color: #BDECB6;
+}
+
+.A06863{
+    background-color: #A06863;
+}
+
+.q3BB00F{
+    background-color: #3BB00F;
+}
+
+.q6F1DFC{
+    background-color: #6F1DFC;
+}
+
+.q226666{
+    background-color: #226666;
+}
+
+.CF1463{
+    background-color: #CF1463;
+}
+
+.DA7701{
+    background-color: #DA7701;
+}
+
+.AD7D6A{
+    background-color: #AD7D6A;
+}
+
+.q5CC343{
+    background-color: #5CC343;
+}
+
+.F1B2B3{
+    background-color: #F1B2B3;
+}
+
+.q3B0228{
+    background-color: #3B0228;
+}
+
+.D5ECB6{
+    background-color: #D5ECB6;
+}
+
+.q3C2D17{
+    background-color: #3C2D17;
+}
+
+.BF6769{
+    background-color: #BF6769;
+}
+
+.q4C1139{
+    background-color: #4C1139;
+}
+
+.B18F6B{
+    background-color: #B18F6B;
+}
+
+.C5E234{
+    background-color: #C5E234;
+}
+
+.E07511{
+    background-color: #E07511;
+}
+
+.B8AFA1{
+    background-color: #B8AFA1;
+}
+
+.C2041F{
+    background-color: #C2041F;
+}
+
+.q7F2BF3{
+    background-color: #7F2BF3;
+}
+
+.q42DA56{
+    background-color: #42DA56;
+}
+
+.q1E545D{
+    background-color: #1E545D;
+}
+
+
+.off{
+    background-color: #838383;
+    background-image: none;
+    
+}
+.hidden{
+    background-color: black;
+    background-image: none;
+}
