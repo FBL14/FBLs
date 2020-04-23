@@ -18,7 +18,7 @@ div{
 
 @media (orientation: portrait){
     div{
-        flex-basis: 15%;
+        flex-basis: 25%;
         height: 12,5vh;
     }
 }
