@@ -19,7 +19,7 @@ div{
 @media (orientation: portrait){
     div{
         flex-basis: 25%;
-        height: 12,5vh;
+        height: 12.5vh;
     }
 }
 
@@ -81,30 +81,18 @@ div{
 }
 
 .a29210d{
-    background-color: #29210d;
+    background-color: #b1913f;
 }
 
 .ffc50b{
     background-color: #ffc50b;
 }
 
-.midnightblue{
-    background-color: midnightblue;
-}
-
-.purple{
-    background-color: purple;
-}
-
-.springgreen{
-    background-color: springgreen;
-}
-
 .off{
-    background-color: #838383;
+    background-color: lightgrey;
     background-image: none;
     
-}
+}/*
 .hidden{
     background-color: black;
     background-image: none;
