@@ -1,4 +1,4 @@
-const cardColors = ["red", "red", "green", "green", "blue", "blue", "brown", "brown", "yellow", "yellow", "gray", "gray", "cadetblue", "cadetblue", "violet", "violet", "lightgreen", "lightgreen", "coral", "coral", "darkgreen", "darkgreen", "deeppink", "deeppink", "ae30c32", "ae30c32", "a21ed4e", "a21ed4e", "a29210d", "a29210d", "ffc50b", "ffc50b", "midnightblue", "midnightblue", "purple", "purple", "springgreen", "springgreen"];
+const cardColors = ["red", "red", "green", "green", "blue", "blue", "brown", "brown", "yellow", "yellow", "gray", "gray", "cadetblue", "cadetblue", "violet", "violet", "lightgreen", "lightgreen", "coral", "coral", "darkgreen", "darkgreen", "deeppink", "deeppink", "ae30c32", "ae30c32", "a21ed4e", "a21ed4e", "a29210d", "a29210d", "ffc50b", "ffc50b"];
 
 let cards = document.querySelectorAll('div');
 cards = [...cards];
