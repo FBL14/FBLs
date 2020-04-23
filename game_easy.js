@@ -58,7 +58,7 @@ const clickCard = function(){
         activeCards.length = 0;
         cards.forEach(card => card.addEventListener('click', clickCard))
     
-    },300)
+    },1000)
          
     }
 };
@@ -73,7 +73,7 @@ const init = function(){
             card.classList.add('hidden');
             card.addEventListener('click', clickCard)
         })
-    },1000)
+    },2000)
 };
 
 init()
