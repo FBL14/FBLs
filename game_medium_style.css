@@ -9,7 +9,7 @@ body{
     background: linear-gradient(90deg, rgba(63, 81, 181, 1) 0%, rgba(233, 30, 99, 1) 100%);
 }
 div{
-    flex-basis: 15%;
+    flex-basis: 12%;
     flex-grow: 1;
     height: 25vh;
     background-color: black;
